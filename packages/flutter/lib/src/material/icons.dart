@@ -5943,7 +5943,7 @@ class Icons {
   static const IconData currency_ruble_outlined = IconData(0xf05da, fontFamily: 'MaterialIcons');
 
   /// <i class="material-icons md-36">currency_rupee</i> &#x2014; material icon named "currency rupee".
-  static const IconData currency_rupee = IconData(0xf04e1, fontFamily: 'MaterialIcons');
+  static const IconData currency_rupee = IconData(0x20B9, fontFamily: 'MaterialIcons');
 
   /// <i class="material-icons-sharp md-36">currency_rupee</i> &#x2014; material icon named "currency rupee" (sharp).
   static const IconData currency_rupee_sharp = IconData(0xf03ed, fontFamily: 'MaterialIcons');
